@@ -1,0 +1,32 @@
+[
+  {
+    "player_name": "Player1",
+    "score": 25,
+    "accuracy": 52.38095238095239,
+    "timestamp": "2025-05-07 20:08:39"
+  },
+  {
+    "player_name": "Player1",
+    "score": 17,
+    "accuracy": 41.17647058823529,
+    "timestamp": "2025-05-07 18:54:57"
+  },
+  {
+    "player_name": "Player1",
+    "score": 11,
+    "accuracy": 36.36363636363637,
+    "timestamp": "2025-05-07 18:57:30"
+  },
+  {
+    "player_name": "Player1",
+    "score": 3,
+    "accuracy": 41.37931034482759,
+    "timestamp": "2025-05-07 20:08:07"
+  },
+  {
+    "player_name": "Player1",
+    "score": -14,
+    "accuracy": 24.242424242424242,
+    "timestamp": "2025-05-07 18:56:54"
+  }
+]
